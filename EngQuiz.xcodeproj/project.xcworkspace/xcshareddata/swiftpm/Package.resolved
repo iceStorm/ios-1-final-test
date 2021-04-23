@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-extensions",
+        "repositoryURL": "https://github.com/iceStorm/swift-extensions",
+        "state": {
+          "branch": "master",
+          "revision": "1e967312aa85232eef5c6b321839700273931015",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
